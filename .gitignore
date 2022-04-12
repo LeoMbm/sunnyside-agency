@@ -1,0 +1,8 @@
+
+*.sketch
+*.fig
+
+.index.js
+
+.DS_Store
+.prettierignore
